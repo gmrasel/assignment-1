@@ -1,3 +1,35 @@
 body{
     font-family: 'Merriweather', serif;
+    margin: 0px;
+}
+h1{
+    font-size: 45px;
+}
+span{
+    color: #b71540;
+}
+.first{
+    display: flex;
+    padding: 70px;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 100%;
+}
+p{
+    padding-right: 50px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.link-button{
+    text-decoration: none;
+    color: black;
+    background-color: #e58e26;
+    padding: 10px;
+    border-radius: 15px;
+}
+#div-1{
+    padding-top: 70px;
 }
