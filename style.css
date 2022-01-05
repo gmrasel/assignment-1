@@ -2,6 +2,9 @@ body{
     font-family: 'Merriweather', serif;
     margin: 0px;
 }
+section{
+    margin-bottom: 50px;
+}
 h1{
     font-size: 45px;
 }
@@ -21,15 +24,46 @@ span{
 p{
     padding-right: 50px;
     margin-top: 20px;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
 .link-button{
     text-decoration: none;
-    color: black;
-    background-color: #e58e26;
+    color: white;
+    background-color: #ff9f1a;
     padding: 10px;
     border-radius: 15px;
 }
 #div-1{
     padding-top: 70px;
+}
+.p-1{
+    margin-top: 80px;
+}
+
+.second{
+    display: flex;
+}
+.width-33{
+    width: 30%;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 35px;
+    margin-right: 35px;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+.illustrator{
+    width: 20%;
+}
+#bg-1{
+    background-color: #ff99c2;
+}
+#bg-2{
+    background-color: #ccf5ff;
+}
+#bg-3{
+    background-color:  #99ff99;
+}
+.mission{
+    text-align: center;
 }
