@@ -67,3 +67,16 @@ p{
 .mission{
     text-align: center;
 }
+footer{
+    background-color: black;
+    text-align: center;
+    padding-top: 10px;
+}
+.footer{
+    color: white;
+}
+.footer-p{
+    color: white;
+    font-size: 14px;
+    padding-bottom: 25px;
+}
