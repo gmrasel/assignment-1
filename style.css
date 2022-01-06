@@ -49,7 +49,7 @@ p{
     padding-right: 30px;
     margin-left: 35px;
     margin-right: 35px;
-    border: 2px solid black;
+    border: 2px solid none;
     border-radius: 15px;
 }
 .illustrator{
@@ -67,6 +67,9 @@ p{
 .mission{
     text-align: center;
 }
+.third{
+    display: flex;
+}
 footer{
     background-color: black;
     text-align: center;
@@ -79,4 +82,21 @@ footer{
     color: white;
     font-size: 14px;
     padding-bottom: 25px;
+}
+.width-40{
+    width: 40%;
+}
+.width-40 img{
+    width: 80%;
+    background-image: url(shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 350px;
+    padding-left: 30%;
+    padding-top: 3%;
+}
+.width-60{
+    width: 60%;
+    padding-left: 10%;
+    padding-right: 15%;
 }
