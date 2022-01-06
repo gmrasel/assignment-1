@@ -78,6 +78,22 @@ p{
 .third{
     display: flex;
 }
+.six{
+    width: 100%;
+}
+.special-heading{
+    font-size: 45px;
+    text-align: center;
+ }
+ .tour{
+     width: 50%;
+     text-align: center;
+     background-color: skyblue;
+     border: 50px solid rgb(255, 103, 1);
+     border-radius: 15px;
+     margin: 5% 20%;
+     padding: 25px 30px;
+ }
 
 footer{
     background-color: black;
@@ -126,3 +142,5 @@ footer{
         background-repeat: no-repeat;
         background-position: bottom;
         background-size: 200px;
+
+    
